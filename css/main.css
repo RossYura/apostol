@@ -1,0 +1,71 @@
+.bg-red{
+  background-color:red;
+}
+
+.text-black{
+	color: black;
+}
+.text-white{
+	color: white !important;
+}
+.text-red{
+	color: red;
+	font-size: 20px;
+}
+
+.text-size{
+	font-size: 21px;
+}
+
+.text-size-2{
+	font-size: 40px;
+}
+
+.text-size-3{
+	font-size: 30px;
+}
+.text-size-4{
+	font-size: 18px;
+}
+
+.bg-grey {
+	color: #DCDCDC;
+}
+
+.intro{
+    background: url(/assets/intro-bg_2.jpg);
+}
+
+.br-green
+{
+	border: 5px solid green;
+}
+body{margin-top:50px;}
+.glyphicon { margin-right:10px; text-align: right;}
+.panel-body { padding:0px; }
+.panel-body table tr td { padding-left: 15px }
+.panel-body .table {margin-bottom: 0px; }
+.panel-body .glyphicon {
+    color: white;}
+
+.panel-heading .glyphicon {
+  color: white;}
+.panel-default {
+  background-color: #ad589b;
+}
+.panel-default .panel-heading {
+  background-color: #8C165F;
+}
+td a {
+    color: white;
+    text-decoration: none;}
+.panel-title a {
+    color: white;
+    text-decoration: none;}
+.panel .panel-default {
+  background-color: red;
+}
+#main_icon
+{
+    float:right;
+}
